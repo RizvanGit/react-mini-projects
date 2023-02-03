@@ -1,0 +1,25 @@
+.nav {
+	background-color: #444444;
+	padding: 10px 20px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: auto;
+}
+
+
+.nav a {
+	text-decoration: none;
+	color: lightblue;
+	font-size: 1.4rem;
+}
+
+.nav a:hover {
+	transition: color 0.3s ease, text-decoration 0.3s ease;
+	color: lightgreen;
+	text-decoration: underline;
+}

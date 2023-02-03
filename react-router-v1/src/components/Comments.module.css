@@ -1,0 +1,36 @@
+.commentsWrapper {
+	text-align: left;
+	padding: 0 20px;
+}
+.commentsWrapper p {
+	font-style: italic;
+	color: lightyellow;
+}
+.comments {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	gap: 15px;
+	font-size: 1.2rem;
+	margin-left: 15px;
+}
+
+.comments a {
+	color: lightgreen;
+	text-decoration: none;
+}
+.comments a:hover{
+	transition: color 0.1s ease;
+	color: green;
+}
+
+.comment {
+	width: 45%;
+	padding: 5px 20px;
+	background-color: #444444;
+	box-shadow: 0 0 14px rgba(155,155,155, 0.1);
+}
+
+.span {
+	color: #eeeeee;
+}

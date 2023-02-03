@@ -1,0 +1,17 @@
+.usersTable {
+	width: 100%;
+	max-width: 900px;
+	margin: 10px auto;
+	font-size: 1.2rem;
+	border-collapse: collapse;
+
+}
+.usersTable th{
+	font-size: 1.4rem;
+}
+.usersTable table,
+.usersTable th,
+.usersTable td {
+	border: 3px solid #666666;
+	padding: 10px;
+}

@@ -1,0 +1,21 @@
+.carsWrapper{
+	margin: 10px 20px;
+}
+
+.carsTable{
+	width: 100%;
+	max-width: 900px;
+	margin: 0 auto;
+	border-collapse: collapse;
+	font-size: 1.2rem;
+}
+.carsTable th {
+	font-size: 1.4rem;
+}
+
+.carsTable,
+.carsTable th,
+.carsTable td{
+	border: 3px solid #666666;
+	padding: 10px;
+}

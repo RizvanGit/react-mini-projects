@@ -1,0 +1,8 @@
+.App {
+	text-align: center;
+}
+
+.App nav .active {
+	color: lightsalmon;
+	text-decoration: underline;
+}

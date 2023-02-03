@@ -1,0 +1,181 @@
+[{
+  "id": 1,
+  "carMake": "Mitsubishi",
+  "carModel": "RVR",
+  "year": 1994,
+  "VIN": "JTHBL5EF0E5907138"
+}, {
+  "id": 2,
+  "carMake": "Mercedes-Benz",
+  "carModel": "CLK-Class",
+  "year": 2009,
+  "VIN": "1GYEK63N94R302604"
+}, {
+  "id": 3,
+  "carMake": "Volkswagen",
+  "carModel": "Jetta",
+  "year": 1998,
+  "VIN": "3GYFNCEY9AS795856"
+}, {
+  "id": 4,
+  "carMake": "GMC",
+  "carModel": "Safari",
+  "year": 1997,
+  "VIN": "1N6AD0CW0FN128336"
+}, {
+  "id": 5,
+  "carMake": "Land Rover",
+  "carModel": "Freelander",
+  "year": 2004,
+  "VIN": "WAUHMAFC0EN454111"
+}, {
+  "id": 6,
+  "carMake": "Dodge",
+  "carModel": "Durango",
+  "year": 2005,
+  "VIN": "1N4AB7AP9EN972327"
+}, {
+  "id": 7,
+  "carMake": "Mercedes-Benz",
+  "carModel": "E-Class",
+  "year": 1992,
+  "VIN": "JN1AZ4EH7CM672993"
+}, {
+  "id": 8,
+  "carMake": "Chevrolet",
+  "carModel": "Silverado 2500",
+  "year": 2011,
+  "VIN": "19XFA1E89AE216501"
+}, {
+  "id": 9,
+  "carMake": "Toyota",
+  "carModel": "4Runner",
+  "year": 2012,
+  "VIN": "WBANU53558C779918"
+}, {
+  "id": 10,
+  "carMake": "Land Rover",
+  "carModel": "LR2",
+  "year": 2011,
+  "VIN": "1G6AK5S36D0808686"
+}, {
+  "id": 11,
+  "carMake": "Nissan",
+  "carModel": "200SX",
+  "year": 1995,
+  "VIN": "WAUXD68D11A287581"
+}, {
+  "id": 12,
+  "carMake": "Daihatsu",
+  "carModel": "Rocky",
+  "year": 1992,
+  "VIN": "WAUKFAFLXEA097401"
+}, {
+  "id": 13,
+  "carMake": "Mitsubishi",
+  "carModel": "Expo LRV",
+  "year": 1996,
+  "VIN": "3GYFNBEY8BS049278"
+}, {
+  "id": 14,
+  "carMake": "Chevrolet",
+  "carModel": "2500",
+  "year": 1998,
+  "VIN": "3C4PDDDG3DT790842"
+}, {
+  "id": 15,
+  "carMake": "Ford",
+  "carModel": "Thunderbird",
+  "year": 1986,
+  "VIN": "5BZAF0AA3FN391361"
+}, {
+  "id": 16,
+  "carMake": "Lexus",
+  "carModel": "IS",
+  "year": 2007,
+  "VIN": "2G4WS52J631096910"
+}, {
+  "id": 17,
+  "carMake": "Jeep",
+  "carModel": "Grand Cherokee",
+  "year": 2005,
+  "VIN": "5FRYD3H41FB224421"
+}, {
+  "id": 18,
+  "carMake": "Mitsubishi",
+  "carModel": "Galant",
+  "year": 1988,
+  "VIN": "WBAUL73569V120066"
+}, {
+  "id": 19,
+  "carMake": "Mercedes-Benz",
+  "carModel": "190E",
+  "year": 1992,
+  "VIN": "KNADM4A35C6693703"
+}, {
+  "id": 20,
+  "carMake": "Mazda",
+  "carModel": "Miata MX-5",
+  "year": 1993,
+  "VIN": "WDDHH8HB2BA277249"
+}, {
+  "id": 21,
+  "carMake": "Toyota",
+  "carModel": "MR2",
+  "year": 1992,
+  "VIN": "1N6BF0KXXFN670441"
+}, {
+  "id": 22,
+  "carMake": "Mercury",
+  "carModel": "Mountaineer",
+  "year": 2002,
+  "VIN": "5BZAF0AA1EN039703"
+}, {
+  "id": 23,
+  "carMake": "Saab",
+  "carModel": "9000",
+  "year": 1990,
+  "VIN": "1N4AB7AP9EN690527"
+}, {
+  "id": 24,
+  "carMake": "Oldsmobile",
+  "carModel": "Intrigue",
+  "year": 1999,
+  "VIN": "JM1NC2LF3F0442370"
+}, {
+  "id": 25,
+  "carMake": "Mercedes-Benz",
+  "carModel": "C-Class",
+  "year": 2010,
+  "VIN": "KMHDB8AE2BU392376"
+}, {
+  "id": 26,
+  "carMake": "Porsche",
+  "carModel": "Boxster",
+  "year": 1997,
+  "VIN": "SALVP2BG3FH862915"
+}, {
+  "id": 27,
+  "carMake": "Volkswagen",
+  "carModel": "Jetta",
+  "year": 1991,
+  "VIN": "3D73M4HL7BG944079"
+}, {
+  "id": 28,
+  "carMake": "Porsche",
+  "carModel": "Boxster",
+  "year": 2000,
+  "VIN": "WAULC58E75A871803"
+}, {
+  "id": 29,
+  "carMake": "GMC",
+  "carModel": "Sonoma Club Coupe",
+  "year": 1996,
+  "VIN": "WBASP2C54BC280544"
+}, {
+  "id": 30,
+  "carMake": "Mercury",
+  "carModel": "Lynx",
+  "year": 1987,
+  "VIN": "WUADUAFGXAN464789"
+}]

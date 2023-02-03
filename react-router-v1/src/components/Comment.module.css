@@ -1,0 +1,26 @@
+.commentPage {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	height: 100%;
+	width: 100%;
+	padding: 10px 20px;
+	background-color: #444444;
+	margin-top: 20px;
+}
+
+.commentPage a{
+	color: lightyellow;
+	text-decoration: none;
+	align-self: center;
+	font-size: 1.6rem;
+	color: lightcoral;
+}
+.commentPage a:hover{
+	transition: color 0.3s ease;
+	color: red;
+}
+.commentPage p {
+	text-align: left;
+}
